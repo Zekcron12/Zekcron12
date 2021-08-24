@@ -5,7 +5,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Alfred17_?color=1DA1F2&label=Zekcron&logo=twitter&style=for-the-badge)(https://twitter.com/Alfred17_)
 
-![Twitter Follow]:(https://twitter.com/Alfred17_)
+![Twitter Follow](https://twitter.com/Alfred17_)
 
 **Freelance Developer JS**
 
@@ -15,9 +15,10 @@
 
 ---
 
-### <p align="center"> :sparkles:Habilidades</p>
+### <p align="center"> :sparkles: Habilidades :sparkles: </p>
+<div align="center">
 <img src="icons/html5.png" width="50px" height="50px"> <img src="icons/css3.png" width="50px" height="50px"> <img src="icons/js.png" width="50px" height="50px"> <img src="icons/firebase.png" width="50px" height="50px"> <img src="icons/pwa.png" width="50px" height="50px"> <img src="icons/netlify.png" width="50px" height="50px">
-
+</div>
 ---
 
 
