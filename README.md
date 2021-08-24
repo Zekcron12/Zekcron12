@@ -24,7 +24,7 @@
 ### <p align="center"> :sparkles: Actividad :sparkles: </p>
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zekcron12&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zekcron12&theme=gruvbox)
   
 </div>
 
