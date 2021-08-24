@@ -1,15 +1,17 @@
+<link href="path/to/css/icono-arg.css" rel="stylesheet">
+
 ## Hola, mi nombre es [Barragán Alfred](https://alfred-miportafolio.netlify.app/) 👋
-**Alias: Zekcron**
+**Alias: Zekcron ⚡**
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Alfred17_?color=1DA1F2&label=Zekcron&logo=twitter&style=for-the-badge)(https://twitter.com/Alfred17_)
 
-**Freelance developer JS**
+**Freelance Developer JS**
 
 <img src="./PortadaBanner.png" alt="Portada">
 <p align="center">Soy estudiante autónomo y fanático del lenguaje de programación JavaScript.</p>
 
-## Habilidades
-<img src="icons/html5.png" alt="" width="30px" height="30px"><img src="icons/css3.png" alt="" width="30px" height="30px">
+## :sparkles:Habilidades
+<img src="icons/html5.png" width="50px" height="50px"> <img src="icons/css3.png" width="50px" height="50px"> <img src="icons/js.png" width="50px" height="50px"> <img src="icons/firebase.png" width="50px" height="50px"> <img src="icons/pwa.png" width="50px" height="50px"> <img src="icons/netlify.png" width="50px" height="50px">
 
 Here are some ideas to get you started:
 
