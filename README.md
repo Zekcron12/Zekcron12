@@ -1,13 +1,15 @@
 ## Hola, mi nombre es [Barragán Alfred](https://alfred-miportafolio.netlify.app/) 👋
 **Alias: Zekcron**
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/Alfred17_?color=1DA1F2&label=Zekcron&logo=twitter&style=for-the-badge)(https://twitter.com/Alfred17_)
 
 **Freelance developer JS**
+
 <img src="./PortadaBanner.png" alt="Portada">
 <p align="center">Soy estudiante autónomo y fanático del lenguaje de programación JavaScript.</p>
 
 ## Habilidades
-<img src="./html5.png" alt="Portada">
+<img src="icons/html5.png" alt="Portada" style="width: 30px; height: 30px;"><img src="icons/css3.png" alt="Portada" style="width: 30px; height: 30px;">
 
 Here are some ideas to get you started:
 
