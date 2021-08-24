@@ -9,7 +9,7 @@
 <p align="center">Soy estudiante autónomo y fanático del lenguaje de programación JavaScript.</p>
 
 ## Habilidades
-<img src="icons/html5.png" alt="Portada" style="width: 30px; height: 30px;"><img src="icons/css3.png" alt="Portada" style="width: 30px; height: 30px;">
+<img src="icons/html5.png" alt="" width="30px" height="30px"><img src="icons/css3.png" alt="" width="30px" height="30px">
 
 Here are some ideas to get you started:
 
