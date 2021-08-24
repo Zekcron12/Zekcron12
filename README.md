@@ -21,7 +21,9 @@
 
 ---
 
+### Actividad
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zekcron12&theme=radical) 
 
 
 <!--
