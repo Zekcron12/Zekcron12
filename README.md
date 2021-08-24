@@ -6,11 +6,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Alfred17_?color=1DA1F2&label=Zekcron&logo=twitter&style=for-the-badge)](https://twitter.com/Alfred17_)
 
 
-**Freelance Developer JS**
-
-<img src="./Beta4.png" alt="Portada">
-<p align="center" font-weight="bold"> Soy estudiante autónomo y fanático del lenguaje de programación JavaScript.
-</p>
+<img src="./Baner-zkc.png" alt="Portada">
+**<p align="center" font-weight="bold"> Soy estudiante autónomo y fanático del lenguaje de programación JavaScript.
+</p>**
 
 ---
 
