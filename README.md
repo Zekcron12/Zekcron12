@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hola, mi nombre de developer es [Zekcron](https://alfred-miportafolio.netlify.app/) 👋
+![Twitter Follow](https://img.shields.io/twitter/follow/Alfred17_?color=1DA1F2&label=Zekcron&logo=twitter&style=for-the-badge)(https://twitter.com/Alfred17_)
 
-
-**Zekcron12/Zekcron12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./PortadaBanner.png">
 
 Here are some ideas to get you started:
 
