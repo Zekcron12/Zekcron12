@@ -14,8 +14,10 @@
 
 ### <p align="center"> :sparkles: Habilidades :sparkles: </p>
 <div align="center">
-<img src="icons/html5.png" width="50px" height="50px"> <img src="icons/css3.png" width="50px" height="50px"> 
-<img src="icons/js.png" width="50px" height="50px"> <img src="icons/firebase.png" width="50px" height="50px"> 
+<img src="icons/html5.png" width="50px" height="50px"> <img src="icons/css3.png" width="50px" height="50px">
+  
+<img src="icons/js.png" width="50px" height="50px"> <img src="icons/firebase.png" width="50px" height="50px">
+  
 <img src="icons/pwa.png" width="50px" height="50px"> <img src="icons/netlify.png" width="50px" height="50px">
 </div>
 
