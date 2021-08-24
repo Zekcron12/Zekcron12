@@ -7,8 +7,8 @@
 
 
 <img src="./Baner-zkc.png" alt="Portada">
-**<p align="center" font-weight="bold"> Soy estudiante autónomo y fanático del lenguaje de programación JavaScript.
-</p>**
+<p align="center" font-weight="bold"> Soy estudiante autónomo y fanático del lenguaje de programación JavaScript.
+</p>
 
 ---
 
