@@ -24,7 +24,7 @@
 ---
 
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Zekcron12.Zekcron12&label=Visitas&labelColor=053337&logo=GitHub&logoColor=FFFFFF&color=39EC2A&style=for-the-badge">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Zekcron12.Zekcron12&label=Visitas&labelColor=053337&logo=GitHub&logoColor=FFFFFF&color=000000&style=for-the-badge">
 <a>
 
 
