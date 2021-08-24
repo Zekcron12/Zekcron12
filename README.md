@@ -17,14 +17,14 @@
  
 | Tecnologías | Frecuencia |
 | --- | --- |
-| <img src="icons/html5.png" width="50px" height="50px"> <img src="icons/css3.png" width="50px" height="50px"> <img src="icons/js.png" width="50px" height="50px"> <img src="icons/firebase.png" width="50px" height="50px"> <img src="icons/pwa.png" width="50px" height="50px"> <img src="icons/netlify.png" width="50px" height="50px"> | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zekcron12&show_icons=true&title_color=000000&icon_color=f6c32c&text_color=9f9f9f&bg_color=0A373B&count_private=true&layout=compact) |
+| <img src="icons/html5.png" width="50px" height="50px"> <img src="icons/css3.png" width="50px" height="50px"> <img src="icons/js.png" width="50px" height="50px"> <img src="icons/firebase.png" width="50px" height="50px"> <img src="icons/pwa.png" width="50px" height="50px"> <img src="icons/netlify.png" width="50px" height="50px"> | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zekcron12&show_icons=true&title_color=000000&icon_color=f6c32c&text_color=000000&bg_color=053337&count_private=true&layout=compact) |
 
 </div>
 
 ---
 
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Zekcron12.Zekcron12&label=Visitas&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Zekcron12.Zekcron12&label=Visitas&labelColor=053337&logo=GitHub&logoColor=FFFFFF&color=39EC2A&style=for-the-badge">
 <a>
 
 
