@@ -19,6 +19,9 @@
 
 ---
 
+![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zekcron12&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
+
+
 <!--
 Here are some ideas to get you started:
 
