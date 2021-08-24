@@ -23,6 +23,11 @@
 
 ---
 
+<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Zekcron12.Zekcron12&label=Visitas&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge">
+<a>
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=Zekcron12.Zekcron12&label=Visitas&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
+
 
 <!--
 Here are some ideas to get you started:
