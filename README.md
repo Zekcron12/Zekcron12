@@ -1,6 +1,6 @@
 <link href="path/to/css/icono-arg.css" rel="stylesheet">
 
-## Hola, mi nombre es [Barragán Alfred](https://alfred-miportafolio.netlify.app/) :alien:
+## Hola, mi nombre es [Barragán Alfred](https://alfred-miportafolio.netlify.app/ target="_blank") :alien:
 **Alias: Zekcron ⚡**
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Alfred17_?color=1DA1F2&label=Zekcron&logo=twitter&style=for-the-badge)](https://twitter.com/Alfred17_)
