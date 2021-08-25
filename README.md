@@ -1,6 +1,6 @@
 <link href="path/to/css/icono-arg.css" rel="stylesheet">
 
-## Hola, mi nombre es [Barragán Alfred](https://alfred-miportafolio.netlify.app/) :alien:
+### Hola, mi nombre es [Barragán Alfred](https://alfred-miportafolio.netlify.app/) :alien:
 **Alias: Zekcron ⚡**
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Alfred17_?color=1DA1F2&label=Zekcron&logo=twitter&style=for-the-badge)](https://twitter.com/Alfred17_)
@@ -17,7 +17,7 @@
  
 | Tecnologías | Frecuencia |
 | --- | --- |
-| <img src="icons/html5.png" width="50px" height="50px"> <img src="icons/css3.png" width="50px" height="50px"> <img src="icons/js.png" width="50px" height="50px"> <img src="icons/firebase.png" width="50px" height="50px"> <img src="icons/pwa.png" width="50px" height="50px"> <img src="icons/netlify.png" width="50px" height="50px"> | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zekcron12&show_icons=true&title_color=000000&icon_color=f6c32c&text_color=FFFFFF&bg_color=053337&count_private=true&layout=compact) |
+| <img src="icons/html5.png" width="50px" height="50px"> <img src="icons/css3.png" width="50px" height="50px"> <img src="icons/js.png" width="50px" height="50px"> <img src="icons/firebase.png" width="50px" height="50px"> <img src="icons/pwa.png" width="50px" height="50px"> <img src="icons/netlify.png" width="50px" height="50px"> | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zekcron12&show_icons=true&title_color=FFFFFF&icon_color=f6c32c&text_color=FFFFFF&bg_color=053337&count_private=true&layout=compact) |
 
 </div>
 
